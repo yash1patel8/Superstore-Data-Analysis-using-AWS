@@ -31,7 +31,7 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 **Visualization**:
 - A bar chart showing the sum of sales and profit for each product sub-category.
 
- ![Superstore Sales Chart]Images/Quicksight-report_page-0001.jpg
+ ![Superstore Sales Chart](Images/Quicksight-report_page-0001.jpg)
  
 ### 2. Sum of Sales by Category
 - **Office Supplies**: This category generates the highest sales, followed by Technology and Furniture.
@@ -41,7 +41,7 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 **Visualization**:
 - A bar chart illustrating the total sales for each product category (Office Supplies, Technology, Furniture).
 
-![Superstore Sales Chart]Images/Quicksight-report_page-0002.jpg
+![Superstore Sales Chart](Images/Quicksight-report_page-0002.jpg)
 
 ### 3. Sum of Profit and Quantity by Product Name
 - **High-Profit Products**: Products like #10 White Business Envelopes and 1.7 Cubic Feet Compact Office Refrigerator generate high profits.
@@ -50,7 +50,7 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 **Visualization**:
 - A table listing the profit and quantity sold for each product.
 
-![Superstore Sales Chart]Images/Quicksight-report_page-0003.jpg
+![Superstore Sales Chart](Images/Quicksight-report_page-0003.jpg)
 
 ### 4. Count of Ship Date by Category
 - **Office Supplies**: This category has the highest shipping volume, indicating high demand.
@@ -60,7 +60,7 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 **Visualization**:
 - A bar chart showing the count of ship dates for each product category.
 
-![Superstore Sales Chart]Images/Quicksight-report_page-0004.jpg
+![Superstore Sales Chart](Images/Quicksight-report_page-0004.jpg)
 
 ### 5. Sum of Sales by City (Top 5 Cities)
 - **Top-Performing Cities**: Cities like New York, Los Angeles, and Chicago contribute the most to overall sales.
@@ -69,7 +69,7 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 **Visualization**:
 - A bar chart highlighting the top 5 cities with the highest sales.
 
-![Superstore Sales Chart]Images/Quicksight-report_page-0005.jpg
+![Superstore Sales Chart](Images/Quicksight-report_page-0005.jpg)
 
 ## Kaggle Dataset
 
