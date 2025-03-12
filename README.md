@@ -64,7 +64,7 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 ## Kaggle Dataset
 
 The dataset used for this analysis is available on Kaggle:  
-[Superstore Dataset](https://www.kaggle.com/datasets)
+[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Conclusion
 
