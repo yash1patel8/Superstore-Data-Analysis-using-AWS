@@ -38,6 +38,16 @@ It helped in running SQL queries.
 QuickSight helps in creating visualizations and dashboards from data sources.
 It used the results from Athena’s analysis of the data for  data visualization.
 
+## Results and Insights
+
+Our analysis revealed several key insights about Superstore's sales performance:
+
+1. **Top Product Categories**: Office supplies consistently generated the highest revenue across all regions.
+2. **Seasonal Trends**: Sales peak in Q4, likely due to holiday shopping.
+3. **Customer Segmentation**: Corporate customers had higher average order values but lower purchase frequency compared to home offices.
+
+![Sales Trends Dashboard](path/to/dashboard-screenshot.png)
+
 #### Sanpshots:
 
 ![Screenshot 2024-05-22 181446](https://github.com/bhavanachitragar/Superstore-Data-Analysis-using-AWS/assets/91766461/597ace09-6508-4705-b2a5-369c55130a2a)
