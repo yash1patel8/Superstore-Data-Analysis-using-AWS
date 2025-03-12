@@ -46,7 +46,6 @@ Our analysis revealed several key insights about Superstore's sales performance:
 2. **Seasonal Trends**: Sales peak in Q4, likely due to holiday shopping.
 3. **Customer Segmentation**: Corporate customers had higher average order values but lower purchase frequency compared to home offices.
 
-![Sales Trends Dashboard](path/to/dashboard-screenshot.png)
 
 #### Sanpshots:
 
