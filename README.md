@@ -29,8 +29,6 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 - **Low-Profit Sub-Categories**: Supplies and Fasteners have the lowest profit margins, indicating potential inefficiencies or pricing issues.
 
 **Visualization**:
-- A bar chart showing the sum of sales and profit for each product sub-category.
-
  ![Superstore Sales Chart](Images/Quicksight-report_page-0001.jpg)
  
 ### 2. Sum of Sales by Category
@@ -39,8 +37,6 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 - **Furniture**: Furniture has moderate sales but lower profit margins compared to the other categories.
 
 **Visualization**:
-- A bar chart illustrating the total sales for each product category (Office Supplies, Technology, Furniture).
-
  ![Superstore Sales Chart](Images/Quicksight-report_page-0002.jpg)
 
 ### 3. Sum of Profit and Quantity by Product Name
@@ -48,8 +44,6 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 - **High-Quantity Products**: Products like #10– 4 1/4 x 9 1/2 Recycled Envelopes and #10– 4 1/4 x 9 1/2 Security-Tint Envelopes are sold in large quantities but have lower profit margins.
 
 **Visualization**:
-- A table listing the profit and quantity sold for each product.
-
  ![Superstore Sales Chart](Images/Quicksight-report_page-0003.jpg)
 
 ### 4. Count of Ship Date by Category
@@ -58,8 +52,6 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 - **Furniture**: Furniture has the lowest shipping volume, suggesting lower demand or longer lead times.
 
 **Visualization**:
-- A bar chart showing the count of ship dates for each product category.
-
  ![Superstore Sales Chart](Images/Quicksight-report_page-0004.jpg)
 
 ### 5. Sum of Sales by City (Top 5 Cities)
@@ -67,8 +59,6 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 - **Underperforming Cities**: Cities like Albuquerque and Nashville have lower sales volumes, indicating potential opportunities for growth.
 
 **Visualization**:
-- A bar chart highlighting the top 5 cities with the highest sales.
-
  ![Superstore Sales Chart](Images/Quicksight-report_page-0005.jpg)
 
 ## Kaggle Dataset
