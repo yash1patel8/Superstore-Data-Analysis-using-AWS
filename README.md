@@ -31,6 +31,8 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 **Visualization**:
 - A bar chart showing the sum of sales and profit for each product sub-category.
 
+ ![Superstore Sales Chart]Images/Quicksight-report_page-0001.jpg
+ 
 ### 2. Sum of Sales by Category
 - **Office Supplies**: This category generates the highest sales, followed by Technology and Furniture.
 - **Technology**: While Technology has lower sales compared to Office Supplies, it has higher profit margins.
@@ -39,12 +41,16 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 **Visualization**:
 - A bar chart illustrating the total sales for each product category (Office Supplies, Technology, Furniture).
 
+![Superstore Sales Chart]Images/Quicksight-report_page-0002.jpg
+
 ### 3. Sum of Profit and Quantity by Product Name
 - **High-Profit Products**: Products like #10 White Business Envelopes and 1.7 Cubic Feet Compact Office Refrigerator generate high profits.
 - **High-Quantity Products**: Products like #10– 4 1/4 x 9 1/2 Recycled Envelopes and #10– 4 1/4 x 9 1/2 Security-Tint Envelopes are sold in large quantities but have lower profit margins.
 
 **Visualization**:
 - A table listing the profit and quantity sold for each product.
+
+![Superstore Sales Chart]Images/Quicksight-report_page-0003.jpg
 
 ### 4. Count of Ship Date by Category
 - **Office Supplies**: This category has the highest shipping volume, indicating high demand.
@@ -54,6 +60,8 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 **Visualization**:
 - A bar chart showing the count of ship dates for each product category.
 
+![Superstore Sales Chart]Images/Quicksight-report_page-0004.jpg
+
 ### 5. Sum of Sales by City (Top 5 Cities)
 - **Top-Performing Cities**: Cities like New York, Los Angeles, and Chicago contribute the most to overall sales.
 - **Underperforming Cities**: Cities like Albuquerque and Nashville have lower sales volumes, indicating potential opportunities for growth.
@@ -61,14 +69,7 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 **Visualization**:
 - A bar chart highlighting the top 5 cities with the highest sales.
 
-## Improvements
-
-- **Data Quality Checks**: Implement data validation steps during the ETL process to ensure data accuracy and consistency.
-- **Automation**: Use AWS Step Functions or Lambda to automate the entire pipeline, from data ingestion to visualization.
-- **Advanced Analytics**: Incorporate machine learning models (using AWS SageMaker) to predict future sales trends or customer behavior.
-- **Cost Optimization**: Monitor and optimize the cost of AWS services, especially for large datasets, by using S3 lifecycle policies and Athena query optimizations.
-- **Enhanced Visualizations**: Use more advanced QuickSight features like forecasting, anomaly detection, and custom calculations to provide deeper insights.
-- **Documentation**: Add detailed documentation for each step of the pipeline, including code snippets, query examples, and troubleshooting tips.
+![Superstore Sales Chart]Images/Quicksight-report_page-0005.jpg
 
 ## Kaggle Dataset
 
