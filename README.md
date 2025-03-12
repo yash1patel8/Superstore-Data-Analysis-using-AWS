@@ -10,6 +10,9 @@ This project builds a pipeline to analyze Superstore sales data using AWS servic
 - **AWS Athena**: Enabled querying of the transformed data stored in S3 using SQL. Athena was used to run analytical queries and generate insights.
 - **Amazon QuickSight**: Used to create interactive visualizations and dashboards based on the analyzed data from Athena.
 
+  ![Superstore Sales Chart](Images/flow.png)
+
+
 ## Pipeline Overview
 
 1. **Data Ingestion**: Raw Superstore data was uploaded to an S3 bucket.
